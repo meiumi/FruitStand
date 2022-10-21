@@ -12,5 +12,5 @@ def fruitStand():
     totalCherry = input("How many Cherries?: ")
     print(int(totalOrange) * priceOfOrange + int(totalPeach) * priceOfPeach + int(totalStrawberry) * priceOfStrawberry + int(totalBanana) * priceOfBanana + int(totalCherry) * priceOfCherry)
     
-fruitStand();
+
     
