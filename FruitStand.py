@@ -13,4 +13,4 @@ def fruitStand():
     print(int(totalOrange) * priceOfOrange + int(totalPeach) * priceOfPeach + int(totalStrawberry) * priceOfStrawberry + int(totalBanana) * priceOfBanana + int(totalCherry) * priceOfCherry)
     
 
-    
+fruitStand();    
